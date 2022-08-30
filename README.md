@@ -57,7 +57,7 @@
 
 [iHax机场免费注册https://t.me/iHaxTG_bot?start=1838644960](https://t.me/iHaxTG_bot?start=1838644960)
 
-ikuuu机场免费注册:[@iKuuuu_VPN_bot](@iKuuuu_VPN_bot)
+ikuuu机场免费注册:https://t.me/iKuuuu_VPN_bot
 
 
 # 以下是免费的订阅，如果导入有问题，自行转换：
