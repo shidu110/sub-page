@@ -15,6 +15,7 @@
 [猫猫云机场点我注册https://maomaoy.fun/auth/register?code=Cuiu](https://maomaoy.fun/auth/register?code=Cuiu)
 
 评价：我是买的100T一折活动，现在估计没这活动了，新机场，还在发展阶段，可以短期冲一冲，也可以每天签到白嫖，用免费节点，速度不错。
+![chrome_rOyu1z6JnC](https://user-images.githubusercontent.com/57930393/187404079-d54861b5-fb48-4e96-9af5-3884841d2c6d.png)
 
 [猫猫云服务器探针https://fwd.xn--i2ry73a8i2b.fit/](https://fwd.xn--i2ry73a8i2b.fit/)
 
@@ -42,6 +43,14 @@
 
 评价：免费300G 
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Xstars机场免费体验点我注册https://xstars.top/#/register?code=3NblpQeE](https://xstars.top/#/register?code=3NblpQeE)
+
+评价： 0元购白嫖组二号100G
+
+
 # 以下是电报注册的免费机场：
 
 [天机机场免费注册https://t.me/tjvpn_bot?start=Gz2SnhHA](https://t.me/tjvpn_bot?start=Gz2SnhHA)
@@ -51,5 +60,16 @@
 ikuuu机场免费注册:[@iKuuuu_VPN_bot](@iKuuuu_VPN_bot)
 
 
+# 以下是免费的订阅，如果导入有问题，自行转换：
+
+https://paste.ee/r/P6yME/0
+
+https://zcjd.top/api/v1/client/subscribe?token=88df64a2e8c57800440c39efb8e80f96
+
+https://rss.epon.cloud/link/m805sp5QfrltVS4x?clash=1
+
+https://sub.hazz.win/api/v1/client/subscribe?token=be655d04de20377e2fc60333deb186c4
+
+https://whk.life/api/v1/client/subscribe?token=071c5daddfe0fe48a5b661ca28c18948
 
 
