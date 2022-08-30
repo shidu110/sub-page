@@ -6,7 +6,7 @@
 
 [点我进入搭建修改版网址https://shidu110.github.io/sub-page/](https://shidu110.github.io/sub-page/)
 
-前段来自ACL大佬的版本，自己修改加入了肥羊后端还有自己的模板
+前端来自ACL大佬的版本，自己修改加入了肥羊后端，还有自己的模板：[点我预览模板](https://raw.githubusercontent.com/shidu110/ACL4SSR-shiduver/rm/Clash/config/shidu110_Online_Full_ini.ini)
 
 ![83FA51WP4C](https://user-images.githubusercontent.com/57930393/187378940-e0bb9a09-16a2-44f1-95cb-b93f40573367.png)
 
