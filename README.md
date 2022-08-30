@@ -4,7 +4,7 @@
 
 # 本站订阅转换-点击下方链接
 
-[点我进入搭建修改版网址](https://shidu110.github.io/sub-page/)
+[点我进入搭建修改版网址https://shidu110.github.io/sub-page/](https://shidu110.github.io/sub-page/)
 
 前段来自ACL大佬的版本，自己修改加入了肥羊后端还有自己的模板
 
