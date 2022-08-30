@@ -1,6 +1,7 @@
-# 订阅转换-点击下方链接
 
-[acl自己搭建修改版](https://shidu110.github.io/sub-page/)
+# 本站订阅转换-点击下方链接
+
+[自己搭建修改版](https://shidu110.github.io/sub-page/)
 
 前段来自ACL大佬的版本，自己修改加入了肥羊后端还有自己的模板
 
