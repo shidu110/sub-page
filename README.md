@@ -1,10 +1,10 @@
 
 ## 因为长期收集白嫖机场，因此每个月都有很多订阅。
-## 然而订阅太多，切换麻烦，因此打算自己搭建私人定制模板来满足自己的要求。
+## 然而订阅太多，切换麻烦，因此打算自己搭建来满足自己的要求。
 
-# 本站订阅转换-点击下方链接
+# 订阅转换-点击下方链接
 
-[点我进入搭建修改版网址https://shidu110.github.io/sub-page/](https://shidu110.github.io/sub-page/)
+[点我进入订阅转换合并网站https://shidu110.github.io/sub-page/](https://shidu110.github.io/sub-page/)
 
 前端来自ACL大佬的版本，自己修改加入了肥羊后端，还有自己的模板：[点我预览模板](https://raw.githubusercontent.com/shidu110/ACL4SSR-shiduver/rm/Clash/config/shidu110_Online_Full_ini.ini)
 
