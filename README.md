@@ -59,13 +59,13 @@
 
 # 以下是电报注册的免费机场：
 
-[天机机场免费注册https://t.me/tjvpn_bot?start=Gz2SnhHA](https://t.me/tjvpn_bot?start=Gz2SnhHA)
+天机机场点我免费跳转注册:https://t.me/tjvpn_bot?start=Gz2SnhHA
 
-[iHax机场免费注册https://t.me/iHaxTG_bot?start=1838644960](https://t.me/iHaxTG_bot?start=1838644960)
+iHax机场点我免费跳转注册:https://t.me/iHaxTG_bot?start=1838644960
 
-ikuuu机场免费注册:https://t.me/iKuuuu_VPN_bot
+ikuuu机场点我免费跳转注册:https://t.me/iKuuuu_VPN_bot
 
-奇点机场免费注册https://t.me/qdyun_bot?start=v7RI0nRB
+奇点机场点我免费跳转注册:https://t.me/qdyun_bot?start=v7RI0nRB
 
 
 # 以下是免费的订阅，如果导入有问题，自行转换：
