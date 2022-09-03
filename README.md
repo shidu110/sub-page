@@ -72,19 +72,5 @@ ikuuu机场点我免费跳转注册:https://t.me/iKuuuu_VPN_bot
 奇点机场点我免费跳转注册:https://t.me/qdyun_bot?start=v7RI0nRB
 
 
-# 以下是免费的订阅，如果导入有问题，自行转换：
-
-https://paste.ee/r/P6yME/0
-
-https://zcjd.top/api/v1/client/subscribe?token=88df64a2e8c57800440c39efb8e80f96
-
-https://rss.epon.cloud/link/m805sp5QfrltVS4x?clash=1
-
-https://sub.hazz.win/api/v1/client/subscribe?token=be655d04de20377e2fc60333deb186c4
-
-https://whk.life/api/v1/client/subscribe?token=071c5daddfe0fe48a5b661ca28c18948
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 
