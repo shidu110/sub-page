@@ -46,7 +46,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[雀巢机场免费体验点我注册https://www.invitevp.com/#/register?code=h9GNvoJF](https://www.invitevp.com/#/register?code=h9GNvoJF)
+[最好用的VPN免费体验点我注册https://www.invitevp.com/#/register?code=h9GNvoJF](https://www.invitevp.com/#/register?code=h9GNvoJF)
 
 评价：注册送3G体验7日有效 节点很多，注册可以应急备用
 
