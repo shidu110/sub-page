@@ -12,7 +12,7 @@
 
 # 以下推荐本人使用的机场：
 
-[猫猫云机场点我注册https://maomaoy.fun/auth/register?code=Cuiu](https://maomaoy.fun/auth/register?code=Cuiu)
+[猫猫云机场点我注册https://xn--9kq250ga.tech/auth/register?code=Cuiu](https://xn--9kq250ga.tech/auth/register?code=Cuiu)
 
 评价：我是买的100T一折活动，现在估计没这活动了，新机场，还在发展阶段，可以短期冲一冲，也可以每天签到白嫖，用免费节点，速度不错。
 
