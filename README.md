@@ -8,6 +8,8 @@
 
 前端来自ACL大佬的版本，自己修改加入了肥羊后端，还有自己的模板：[点我预览模板](https://raw.githubusercontent.com/shidu110/ACL4SSR-shiduver/rm/Clash/config/shidu110_Online_Full_ini.ini)
 
+排除节点：重置|工单|反馈|管理员|清理|脚本|调整|测速|节点
+
 ![83FA51WP4C](https://user-images.githubusercontent.com/57930393/187378940-e0bb9a09-16a2-44f1-95cb-b93f40573367.png)
 
 # 以下推荐本人使用的机场：
@@ -32,6 +34,25 @@ peaceandlove
 ss20120420
 
 ![fmEcpMHcIq](https://user-images.githubusercontent.com/57930393/188773285-c62b1ebf-a489-4a05-9226-da8759071794.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[奈云机场免费体验点我注册https://www.naiun.cc/#/register?code=AqPBPpTu](https://www.naiun.cc/#/register?code=AqPBPpTu)
+
+评价：奈云一个月999元轻量抵扣码：QLDK324，邮箱够多，可以长期白嫖
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[幻神机场免费体验点我注册https://vpn.zhenyevpn.xyz/#/register?code=AT2zTXOR](https://vpn.zhenyevpn.xyz/#/register?code=AT2zTXOR)
+
+评价：使用BUG，购买12元一个月，并复制下来，使用如下代码，可以长期白嫖。只能是12元一个月，可以重复操作，其他金额会失败。在浏览器中粘贴以下网址，关闭翻墙，直连替换提交网址
+，网址http开头.一直刷新网页，直到显示“订单支付成功“，就可以开始白嫖了
+
+方法：http://www.zhenyeservice.com/getOrderDetailStatus?orderId=此处替换成自己的订单号&callback_no=2022060622001408641405401305
+
+（很有可能失效）
+
+![chrome_xYuhvFJR35](https://user-images.githubusercontent.com/57930393/188781737-fb5e29c3-b85e-4d39-9b77-e918dc1a9473.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
