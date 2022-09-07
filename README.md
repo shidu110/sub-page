@@ -13,6 +13,7 @@
 前端来自ACL大佬的版本，自己修改加入了肥羊后端，还有自己的模板：[点我预览模板](https://raw.githubusercontent.com/shidu110/ACL4SSR-shiduver/rm/Clash/config/shidu110_Online_Full_ini.ini)
 
 排除节点：重置|工单|反馈|管理员|清理|脚本|调整|测速|节点
+如果肥羊后端有问题，可以使用其他后端导出
 
 ![83FA51WP4C](https://user-images.githubusercontent.com/57930393/187378940-e0bb9a09-16a2-44f1-95cb-b93f40573367.png)
 
