@@ -23,6 +23,18 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[Sausage Cloud机场点我注册https://reborn.kaochang.ltd/#/register?code=YKDq9Mjl](https://reborn.kaochang.ltd/#/register?code=YKDq9Mjl)
+
+评价：中秋活动已入手，新机场，还在发展阶段，有ipel专线，可以冲一冲，速度不错。
+
+中秋齐欢乐，中秋节活动期间（即日起至9月12日）全场套餐全部七折优惠（淀粉肠除外）
+优惠码:中秋吃烤肠
+
+![chrome_I3iuPwnFXI](https://user-images.githubusercontent.com/57930393/189517726-b5f8e057-8223-43e0-b1a4-30bc7e96d2ed.png)
+![Clash_for_Windows_f0DliYN72H](https://user-images.githubusercontent.com/57930393/189517803-7bc62632-7239-469d-80a2-2dd5171f9b8a.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [okgg机场免费体验点我注册https://okgg.top/auth/register?code=Wpj9](https://okgg.top/auth/register?code=Wpj9)
 
 评价：老牌机场，优惠很多，也可以白嫖，可以使用 初始赠款长期白嫖VIP1节点，节点很多速度很快。
