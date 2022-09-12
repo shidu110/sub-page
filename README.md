@@ -57,7 +57,7 @@ ss20120420
 
 [最好用的VPN免费体验点我注册https://www.invitevp.com/#/register?code=h9GNvoJF](https://www.invitevp.com/#/register?code=h9GNvoJF)
 
-评价：注册送3G体验7日有效 节点很多，注册可以应急备用，实力机场，可付费，可白嫖，“我们不限制邀请次数，如果您身边需要VPN的朋友比较多，您就可以通过多次邀请获取足够的流量，不需要购买套餐。 邀请奖励的流量包与购买的流量包性质是一样的，不限时间、不限速度、不限设备。”
+评价：（名字有VPN，其实跟VPN没啥关系，协议不同，本质还是机场，别被吓着了）注册送3G体验7日有效 节点很多，注册可以应急备用，实力机场，可付费，可白嫖，“我们不限制邀请次数，如果您身边需要VPN的朋友比较多，您就可以通过多次邀请获取足够的流量，不需要购买套餐。 邀请奖励的流量包与购买的流量包性质是一样的，不限时间、不限速度、不限设备。”
 
 ![photo_2022-02-08_01-26-10](https://user-images.githubusercontent.com/57930393/189487714-5727d477-56b3-4acb-9cd8-f7afd0a2ba3c.jpg)
 ![chrome_7UN2SzgEat](https://user-images.githubusercontent.com/57930393/188637709-299580d8-dce2-4bc7-8f3c-fe245e12a135.png)
