@@ -15,14 +15,6 @@
 
 # 以下推荐本人使用的机场：
 
-[猫猫云机场点我注册https://xn--9kq250ga.ltd/#/register?code=gYBr3MyC](https://xn--9kq250ga.ltd/#/register?code=gYBr3MyC)
-
-评价：我是买的100T一折活动，现在估计没这活动了，新机场，还在发展阶段，可以短期冲一冲，也可以每天签到白嫖，用免费节点，速度不错。
-
-![chrome_rOyu1z6JnC](https://user-images.githubusercontent.com/57930393/187404079-d54861b5-fb48-4e96-9af5-3884841d2c6d.png)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [Sausage Cloud机场点我注册https://reborn.kaochang.ltd/#/register?code=YKDq9Mjl](https://reborn.kaochang.ltd/#/register?code=YKDq9Mjl)
 
 评价：中秋活动已入手，新机场，还在发展阶段，有ipel专线，可以冲一冲，速度不错。
