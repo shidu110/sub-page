@@ -73,7 +73,7 @@ iHax机场点我免费跳转注册:https://t.me/iHaxTG_bot?start=1838644960
 
 ikuuu机场点我免费跳转注册:https://t.me/iKuuuu_VPN_bot
 
-奇点机场点我免费跳转注册:https://t.me/qdyun_bot?start=v7RI0nRB
+
 
 
 
